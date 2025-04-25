@@ -14,7 +14,7 @@
   
 <div align="center"><img src="./public/images/cover.png"></div>
 
-## Evolution API
+## Evolution API v2
 
 Evolution API began as a WhatsApp controller API based on [CodeChat](https://github.com/code-chat-br/whatsapp-api), which in turn implemented the [Baileys](https://github.com/WhiskeySockets/Baileys) library. While originally focused on WhatsApp, Evolution API has grown into a comprehensive platform supporting multiple messaging services and integrations. We continue to acknowledge CodeChat for laying the groundwork.
 
